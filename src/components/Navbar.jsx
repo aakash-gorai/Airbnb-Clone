@@ -1,5 +1,5 @@
 import React from "react";
-import Airbnb from "../public/images/airbnb-logo.png";
+import Airbnb from "/images/airbnb-logo.png";
 
 function Navbar() {
   return (

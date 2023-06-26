@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./App.css";
-import Navbar from "../components/Navbar";
-import MiddleComponent from "../components/MiddleComponent";
-import Card from "../components/Card.jsx";
+import Navbar from "./components/Navbar";
+import MiddleComponent from "./components/MiddleComponent";
+import Card from "./components/Card.jsx";
 import data from "../src/data";
 
 function App() {

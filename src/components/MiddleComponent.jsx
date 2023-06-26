@@ -1,5 +1,5 @@
 import React from "react";
-import PhotoGrid from "../public/images/photo-grid.png";
+import PhotoGrid from "/images/photo-grid.png";
 
 function MiddleComponent() {
   return (
