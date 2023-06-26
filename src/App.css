@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+.airbnb--logo {
+  width: 200px;
+  height: 65px;
+  padding: 10px 50px;
+}
+
+nav {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.photo--grid {
+  width: 700px;
+  height: 400px;
+  padding: 70px 400px;
+}
+
+.middle-text {
+  font-family: "Poppins", sans-serif;
+  padding: 0px 80px;
+}
+
+h1 {
+  margin-bottom: -10px;
+}
+.card {
+  font-size: 18px;
+  padding: 50px 80px;
+  
+  
+}
+.card--img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.card--stats{
+  padding-top: 10px;
+  align-items: center;
+}
+.star--img {
+  width: 18px;
+}
+
+span {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-outer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card--stats-top{
+  display: fl
+}
