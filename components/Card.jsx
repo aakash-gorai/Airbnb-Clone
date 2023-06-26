@@ -1,5 +1,4 @@
 import React from "react";
-import PhotoGrid from "../images/photo-grid.png";
 
 function Card(props) {
   console.log(props);
